@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **any-truers/any-truers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +23,3 @@ Here are some ideas to get you started:
    / / /____\_\ \  / / /\ \ \   / / /___/ / // / /   / / /      
   / / /__________\/ / /  \ \ \ / / /____\/ // / /   / / /       
   \/_____________/\/_/    \_\/ \/_________/ \/_/    \/_/        
-                                                                
